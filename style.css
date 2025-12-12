@@ -11,7 +11,7 @@ body {
 /* Sezioni larghe e minimal */
 .section {
   padding: 60px 20px;
-  max-width: 80px;
+  max-width: 800px;
   margin: auto;
   text-align: center;
 }
